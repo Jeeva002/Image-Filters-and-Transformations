@@ -21,10 +21,8 @@ This project demonstrates various basic image processing filters and transformat
    git clone https://github.com/your_username/image_filters_and_transformations.git
    cd image_filters_and_transformations
 2. Install dependencies:
-   ```
-    Copy code
+   ``` bash
     pip install -r requirements.txt
 3. Run the script:
-    ```   
-    Copy code
+    ``` bash
     python filters.py
