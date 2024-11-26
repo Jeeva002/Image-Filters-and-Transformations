@@ -22,11 +22,9 @@ This project demonstrates various basic image processing filters and transformat
    cd image_filters_and_transformations
 2. Install dependencies:
    ```
-    bash
     Copy code
     pip install -r requirements.txt
 3. Run the script:
-    ```
-    bash
+    ```   
     Copy code
     python filters.py
