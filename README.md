@@ -1,6 +1,6 @@
 # Image-Filters-and-Transformations
 
-# Image Filters and Transformations
+
 
 This project demonstrates various basic image processing filters and transformations using OpenCV. Users can apply grayscale, Gaussian blur, edge detection, and Sobel filters to an image.
 
